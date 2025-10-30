@@ -1,4 +1,5 @@
 # lucasrholland.github.io
-The Relationship Between Heat and Income in Virginia: A Correlational Study
-## Summary
-Bayesian modeling, Ordinary Least Squares, and Generalized Linear Models using Python to evaluate spatial and socioeconomic predictors of heat-related illness. 
+## About Me
+Hello world! My name is Lucas, I'm a student researcher in Southwest Virginia. Besides coding and math, I love to thrift, play piano, and drink boba! 
+## Plans
+I'm going to upload code corresponding to my research papers soon, so this the place where you can access it!
