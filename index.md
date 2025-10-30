@@ -46,7 +46,7 @@
 Using Python (OLS & GLM) to examine how socioeconomic and spatial factors predict heat-related illness rates across Virginia counties.</p>
 
 <h2>About Me</h2>
-<p>I love exploring how data connects to real-world systems. Besides coding and math, I enjoy thrifting, playing piano, mountain biking, and drinking way too much boba.</p>
+<p>I love exploring how data connects to real-world systems. Besides coding and math, I enjoy thrifting, playing piano, running cross country, and drinking way too much boba.</p>
 
 <h2>Projects</h2>
 <ul>
