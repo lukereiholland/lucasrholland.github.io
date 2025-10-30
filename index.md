@@ -1,7 +1,3 @@
----
-title: "Lucas R. Holland – Research Portfolio"
----
-
 <style>
   body {
     font-family: "Inter", "Helvetica Neue", sans-serif;
