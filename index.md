@@ -41,8 +41,6 @@
   }
 </style>
 
-<p class="subtitle">Student Researcher • Data Science & Environmental Analysis • Southwest Virginia</p>
-
 <h2>Current Research</h2>
 <p><strong>The Relationship Between Heat and Income in Virginia: A Correlational Study</strong><br>
 Using Python (OLS & GLM) to examine how socioeconomic and spatial factors predict heat-related illness rates across Virginia counties.</p>
