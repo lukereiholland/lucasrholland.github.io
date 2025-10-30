@@ -41,7 +41,6 @@
   }
 </style>
 
-<h1>Lucas R. Holland</h1>
 <p class="subtitle">Student Researcher • Data Science & Environmental Analysis • Southwest Virginia</p>
 
 <h2>Current Research</h2>
