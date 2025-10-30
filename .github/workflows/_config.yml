@@ -1,0 +1,6 @@
+title: "Lucas R. Holland"
+description: "Research Portfolio – Data Science & Environmental Analysis"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
