@@ -8,18 +8,16 @@ title: "Lucas R. Holland – Research Portfolio"
     max-width: 800px;
     margin: 40px auto;
     padding: 0 20px;
-    background: #fffdfd;
-    color: #333;
-  }
-  h1, h2 {
-    text-align: center;
+    background: #ffffff;
+    color: #222;
   }
   h1 {
-    font-size: 2.4em;
-    margin-bottom: 0;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 0.3em;
   }
   h2 {
-    margin-top: 1.5em;
+    margin-top: 1.8em;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 4px;
   }
@@ -30,9 +28,14 @@ title: "Lucas R. Holland – Research Portfolio"
   a:hover {
     text-decoration: underline;
   }
-  .section {
-    margin: 30px 0;
+  p {
     line-height: 1.6;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 2em;
   }
   .footer {
     text-align: center;
@@ -42,28 +45,20 @@ title: "Lucas R. Holland – Research Portfolio"
   }
 </style>
 
-<h1>Hi, I'm Lucas Holland</h1>
-<p style="text-align:center;">
-  Student Researcher · Data Science & Environmental Analysis · Southwest Virginia
-</p>
+<h1>Lucas R. Holland</h1>
+<p class="subtitle">Student Researcher • Data Science & Environmental Analysis • Southwest Virginia</p>
 
-<div class="section">
-  <h2>Current Research</h2>
-  <p><strong>The Relationship Between Heat and Income in Virginia: A Correlational Study</strong><br>
-  Using Python (OLS & GLM) to examine how socioeconomic and spatial factors predict heat-related illness rates across Virginia counties.</p>
-</div>
+<h2>Current Research</h2>
+<p><strong>The Relationship Between Heat and Income in Virginia: A Correlational Study</strong><br>
+Using Python (OLS & GLM) to examine how socioeconomic and spatial factors predict heat-related illness rates across Virginia counties.</p>
 
-<div class="section">
-  <h2>About Me</h2>
-  <p>I love exploring how data connects to real-world systems. Besides coding and math, I enjoy thrifting, playing piano, mountain biking, and drinking way too much boba.</p>
-</div>
+<h2>About Me</h2>
+<p>I love exploring how data connects to real-world systems. Besides coding and math, I enjoy thrifting, playing piano, mountain biking, and drinking way too much boba.</p>
 
-<div class="section">
-  <h2>Projects</h2>
-  <ul>
-    <li><a href="GLM.ipynb">Generalized Linear Model Analysis (Jupyter Notebook)</a></li>
-    <li><a href="CBG_MLR.ipynb">County-Level Multiple Linear Regression (Jupyter Notebook)</a></li>
-  </ul>
-</div>
+<h2>Projects</h2>
+<ul>
+  <li><a href="https://nbviewer.org/github/lukereiholland/lukereiholland.github.io/blob/main/GLM.ipynb">Generalized Linear Model Analysis (Jupyter Notebook)</a></li>
+  <li><a href="https://nbviewer.org/github/lukereiholland/lukereiholland.github.io/blob/main/CBG_MLR.ipynb">County-Level Multiple Linear Regression (Jupyter Notebook)</a></li>
+</ul>
 
 <p class="footer">© 2025 Lucas R. Holland</p>
